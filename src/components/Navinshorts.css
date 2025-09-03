@@ -1,0 +1,25 @@
+.nav{
+    height: 71px;
+    box-shadow: 0px 1px 8px #888888;
+    display: flex;
+    align-items: center;
+}
+ 
+.icon{
+    flex: 0.8;
+}
+
+.iconImg {
+    height: 80%;
+    cursor: pointer;
+}
+
+
+
+
+
+/* ======================HamburgerDrawer CSS==================== */
+.categories {
+    height: 50px;
+    border-radius: 3;
+}
